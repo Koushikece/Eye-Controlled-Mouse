@@ -10,3 +10,6 @@ Modules I have used are-
 **PyAutoGui** -: *PyAutoGUI lets your Python scripts control the mouse and keyboard to automate interactions with other applications*.
 
 it will open a webcam as soon as i will run the code . That webcam can also run in the minimise window so we can perform all the tasks which we want to . 
+
+![Screenshot (202)](https://user-images.githubusercontent.com/111379155/194486128-51d37596-ce24-4191-bcc7-4f999a959ac9.png)
+*WebCam Opening after Running the code*
